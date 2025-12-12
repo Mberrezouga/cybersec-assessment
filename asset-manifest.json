@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cybersec-assessment/static/css/main.5fbe2728.css",
+    "main.js": "/cybersec-assessment/static/js/main.4d924e09.js",
+    "index.html": "/cybersec-assessment/index.html",
+    "main.5fbe2728.css.map": "/cybersec-assessment/static/css/main.5fbe2728.css.map",
+    "main.4d924e09.js.map": "/cybersec-assessment/static/js/main.4d924e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbe2728.css",
+    "static/js/main.4d924e09.js"
+  ]
+}
