@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cybersec-assessment/static/css/main.5fbe2728.css",
-    "main.js": "/cybersec-assessment/static/js/main.4d924e09.js",
+    "main.css": "/cybersec-assessment/static/css/main.c0940f30.css",
+    "main.js": "/cybersec-assessment/static/js/main.a3f692c2.js",
     "index.html": "/cybersec-assessment/index.html",
-    "main.5fbe2728.css.map": "/cybersec-assessment/static/css/main.5fbe2728.css.map",
-    "main.4d924e09.js.map": "/cybersec-assessment/static/js/main.4d924e09.js.map"
+    "main.c0940f30.css.map": "/cybersec-assessment/static/css/main.c0940f30.css.map",
+    "main.a3f692c2.js.map": "/cybersec-assessment/static/js/main.a3f692c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fbe2728.css",
-    "static/js/main.4d924e09.js"
+    "static/css/main.c0940f30.css",
+    "static/js/main.a3f692c2.js"
   ]
 }
